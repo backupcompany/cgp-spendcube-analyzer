@@ -4,8 +4,7 @@ const SESSION_KEY = 'spendcube-user';
 
 // tambah akun di sini
 const USERS: { username: string; password: string }[] = [
-  { username: 'cgp', password: 'cgp-lokal' },
-  { username: 'finance', password: 'finance-lokal' },
+  { username: 'cgp', password: 'cgp123' },
 ];
 
 export function currentUser(): string | null {
