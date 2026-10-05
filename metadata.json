@@ -1,0 +1,6 @@
+{
+  "name": "Hospital SpendCube Analyzer",
+  "description": "Unified multi-source spend analytics platform for Capex & Opex D365 and AX procurement data with master data reconciliation, unmatched item audit, automated visualizations and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
